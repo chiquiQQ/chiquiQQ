@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello 👋! I'm Chiqui,
 
-<!--
-**chiquiQQ/chiquiQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a computer science student at UBA. JavaScript and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative, and creative.
+
+* **I am interested in web designing and iOS development,**
+- 🌱 I am a self-learner and constantly updating my knowledge.
+  - JavaScript
+  - Python 
+- 🧮 I am working on my growth in software development through collaborations and personal projects.<br>
+- Outside tech, 📖 I love to learn languages, 🖌️ design new ideas, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="mailto:sciencesmary@gmail.com">sciencesmary@gmail.com</a>
+
