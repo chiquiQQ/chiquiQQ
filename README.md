@@ -1,5 +1,6 @@
-# Hello 👋! I'm Chiqui,
+![Sin título(3)](https://github.com/chiquiQQ/chiquiQQ/assets/114885139/897fbf4a-c65d-4b57-bebc-8eafbffe7f16)
 
+# Hello 👋! I'm Chiqui,
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
