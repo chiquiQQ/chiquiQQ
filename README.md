@@ -5,7 +5,7 @@
 
 I am a computer science student at UBA. JavaScript and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative, and creative.
 
-* **I am interested in web designing and iOS development,**
+* **I am interested in web designing and iOS development.**
 - 🌱 I am a self-learner and constantly updating my knowledge.
   - JavaScript
   - Python 
