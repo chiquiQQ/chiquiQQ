@@ -17,7 +17,7 @@
           </ul>
         </li>
         <li>🧮 I am working on my growth in software development through collaborations and personal projects.</li>
-        <li>⚡️ Outside tech, 🖌️ design new ideas, 🌐 read articles, 🎵 listen to music, and 🌴 explore nature outdoors.</li>
+        <li>⚡️ Outside of tech, 🖌️ I enjoy designing new ideas, 🌐 reading articles, 🎵 listening to music, and 🌴 exploring nature outdoors.</li>
         <li>📫 Reach out to me at: <a href="mailto:sciencesmary@gmail.com">sciencesmary@gmail.com</a></li>
       </ul>
     </td>
