@@ -1,4 +1,5 @@
-![Sin título(3)](https://github.com/chiquiQQ/chiquiQQ/assets/114885139/897fbf4a-c65d-4b57-bebc-8eafbffe7f16)
+![Banner de LinkedIn Trabajo Sencillo(1)](https://github.com/chiquiQQ/chiquiQQ/assets/114885139/9deedde5-9001-4b37-830a-f20932c92adc)
+
 
 # Hello 👋! I'm Chiqui,
 
